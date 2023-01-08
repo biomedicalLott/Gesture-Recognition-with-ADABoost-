@@ -5,6 +5,7 @@ As per the paper[^1] I would implement a handwriting symbol classifier using fea
 
 The app is very simple, and gestures area already pre-trained.  Simply draw your digit and select "classify". 
 
+*note:* this is very likely broken as it is an earlier version of the one I submitted as I have misplaced the working version. Use at your own risk
 
 
 
@@ -13,4 +14,3 @@ The app is very simple, and gestures area already pre-trained.  Simply draw your
 [^3]: Herold, James, and Thomas F. Stahovich. "Speedseg: A technique for segmenting pen strokes using pen speed." Computers & Graphics 35.2 (2011): 250-264.
 
 
-note* this is very likely broken as it is an earlier version of the one I submitted as I have misplaced the working version. Use at your own risk
